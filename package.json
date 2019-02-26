@@ -1,0 +1,16 @@
+{
+  "name": "@dvo/batch-query",
+  "version": "1.0.0",
+  "description": "A small tool that formats a query and an array or parameters into a batch query.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "batch",
+    "query"
+  ],
+  "author": "isacvale",
+  "license": "ISC"
+}
