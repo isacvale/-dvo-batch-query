@@ -1,6 +1,6 @@
 {
   "name": "@dvo/batch-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small tool that formats a query and an array or parameters into a batch query.",
   "main": "index.js",
   "scripts": {

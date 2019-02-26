@@ -7,7 +7,7 @@ function formatQuery( query, data ){
     let args=[]
     for(let i=0; i<params.length; i++){
       if(params[i]=='?'){
-        args.push(reg[innerCount])
+        args.push(`'${reg[innerCount]}'`)
         innerCount++
       }
       else
